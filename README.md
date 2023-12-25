@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
-<h3 align="center">A full-stack developer from Spain</h3>
+<h3 align="center">A junior full stack developer from Spain</h3>
 
 - 🔭 I’m currently working on [a illustrator's portfolio](https://github.com/CarolRDiz/TFG-Angular)
 
