@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
 <h3 align="center">A junior full stack developer from Spain</h3>
 
-- 🔭 I’m currently working on [a illustrator's portfolio](https://github.com/CarolRDiz/TFG-Angular)
+- 🔭 I’m currently working on [a illustrator's portfolio](https://tfg-carolina-rdiz.netlify.app/)
 
 - 📫 How to reach me **c.diz.dev@gmail.com**
 
